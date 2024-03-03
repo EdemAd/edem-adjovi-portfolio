@@ -14,7 +14,7 @@ const AboutContent = () => {
             <p>My name is ADJOVI Edem I'm currently in my third year of general studies at EFREI Paris Panthéon-Assas Université.
              The next year I'm starting my first year of master in data and artificial intelligence. That's why I'm looking for co-operative student position in Big Data.</p>
             <div className="download-btn">
-                <a className="btn" href="CV.pdf" download="ADJOVI Edem CV (pdf)">Download CV</a>
+                <a className="btn" href="ADJOVI_Edem_CV.pdf" download="ADJOVI Edem CV (pdf)">Download CV</a>
             </div>
         </div>
 

@@ -13,8 +13,7 @@ const Footer = () => {
                     <FaHome size={20} style={{ color:
                     "#fff", marginRight: "2rem"}} />
                     <div>
-                        <p>16 rue de la Moskova 75018</p>
-                        <p>Paris.</p>
+                        <p>Paris, Île de France</p>
                     </div>
                 </div>
                 <div className="phone">
