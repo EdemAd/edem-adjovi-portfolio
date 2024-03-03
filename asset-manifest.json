@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.d2792449.css",
+    "main.js": "/my-portfolio/static/js/main.65849f66.js",
+    "static/media/linkedin.png": "/my-portfolio/static/media/linkedin.3fe10ff5ab9283f14ba1.png",
+    "static/media/cooking with edem.png": "/my-portfolio/static/media/cooking with edem.fcd3ea615d4f6a1c5794.png",
+    "static/media/pro1image.png": "/my-portfolio/static/media/pro1image.1e2b81a738e7dd512b98.png",
+    "static/media/5053309.jpg": "/my-portfolio/static/media/5053309.6da467481005077e7f26.jpg",
+    "static/media/tank de ouf off.png": "/my-portfolio/static/media/tank de ouf off.ff2574fea78ecec6582c.png",
+    "static/media/binairo.png": "/my-portfolio/static/media/binairo.75d1df136e6c6f19d310.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.d2792449.css.map": "/my-portfolio/static/css/main.d2792449.css.map",
+    "main.65849f66.js.map": "/my-portfolio/static/js/main.65849f66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2792449.css",
+    "static/js/main.65849f66.js"
+  ]
+}
