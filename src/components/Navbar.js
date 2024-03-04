@@ -34,7 +34,7 @@ const Navbar = () => {
             <li><Link to="/about">About</Link></li>
             <li>
               
-              <a className="btn btn-download" id="dwn" href="ADJOVI_Edem_CV.pdf" download="ADJOVI Edem CV (pdf)" target="_blank" rel="noopener noreferrer">Download CV</a>
+              <a className="btn btn-download" id="dwn" href="CV_ADJOVI_Edem.pdf" download="ADJOVI Edem CV (pdf)" target="_blank" rel="noopener noreferrer">Download CV</a>
               
             </li>
         </ul>
